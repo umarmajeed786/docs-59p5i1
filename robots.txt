@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-kg3z55.jambul126.xyz/sitemap.xml
